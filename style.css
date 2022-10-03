@@ -1,17 +1,36 @@
-div{border: 1px solid red}
-
-div{
-  width: 100px;
-  padding: 5px;
-  margin:10px;
-   box-sizing: border-box;
+header {
+    background-color: lightseagreen;
+    font-size: 28px;
+    color:white;
+    border-bottom: 3px solid indigo;
+    padding: 22px;
+    margin-bottom: 15px;
+    text-align:center;
+    box-sizing: border-box;
+   
 }
 
-div{border: 1px solid red}
+section {
+    width: 50%;
+    margin-left: 25%;
+    background-color: gainsboro;
+    margin-bottom: 15px;
+    padding-left: 12px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 1px dashed black;
+    border-radius: 5px;
+    text-align: center;
+    box-sizing: border-box;
+}
 
-div{
-  width: 100px;
-  padding: 5px;
-  margin:10px;
- box-sizing: border-box;
+footer {
+    background-color: rebeccapurple;
+    color: white;
+    border-top: 1px solid lightseagreen;
+    padding: 12px;
+    height: 40px;
+    text-align: center;
+    box-sizing: border-box
+
 }
